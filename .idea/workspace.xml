@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2824b297-59bd-4a20-b020-856c235abbce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geek.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/geek/geek.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/geek.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,10 +90,10 @@
       <screen x="0" y="0" width="1860" height="1020" />
     </state>
     <state width="1814" height="267" key="GridCell.Tab.0.right/0.0.1860.1020@0.0.1860.1020" timestamp="1578855447410" />
-    <state x="586" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1578948466394">
+    <state x="586" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1578949378136">
       <screen x="0" y="0" width="1860" height="1020" />
     </state>
-    <state x="586" y="336" key="com.intellij.ide.util.TipDialog/0.0.1860.1020@0.0.1860.1020" timestamp="1578948466394" />
+    <state x="586" y="336" key="com.intellij.ide.util.TipDialog/0.0.1860.1020@0.0.1860.1020" timestamp="1578949378136" />
     <state x="593" y="223" key="search.everywhere.popup" timestamp="1578845495863">
       <screen x="0" y="0" width="1860" height="1020" />
     </state>

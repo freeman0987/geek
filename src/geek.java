@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class geek {
     public static void main(String[] args) {
 
-        /* Задание 2
+        /* Задание 2/
         byte b = 10;
         short s = 2404;
         int i = 123456;

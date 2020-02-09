@@ -14,7 +14,7 @@ public class geek {
         char c = 'A';
         */
 
-        int a = task3();
+        float a = task3();
         System.out.println("Задание 3. Результат метода  = " + a);
 
         boolean b = task4();
@@ -33,12 +33,12 @@ public class geek {
         System.out.println("Задание *8. " + f);
     }
 
-    static int task3() {
+    static float task3() {
 
-        int a = 1;
-        int b = 1;
-        int c = 1;
-        int d = 1;
+        float a = 1f;
+        float b = 1f;
+        float c = 1f;
+        float d = 1f;
 
         return a * (b + (c / d));
     }
@@ -49,12 +49,8 @@ public class geek {
         int y = 10;
         int z = x + y;
 
-        if (z <= 20 && z >= 10 ){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return (z <= 20 && z >= 10 );
+
     }
 
     static String task5(){
